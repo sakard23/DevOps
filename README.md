@@ -1,6 +1,6 @@
 # IT Major roles (2023 verion)
 There are 6 major IT jobs that are in high demands in the current (2023) market. These are:
-- Software Engineer (Beginner role)
+- Software Engineer (Entry level role)
 - DevOps Engineer (Intermediate role - needs some knowledge on Networking, SysAdmin, Software Development LifeCycle knowledge)
 - Cloud Engineer (Beginner role - can start with basic Linux, OS, Cloud certification knowledge)
 - Cyber Security Engineer (Intermediate role - needs some Cloud, Networking, SysAdmin, Software Development LifeCycle knowledge)
@@ -15,22 +15,24 @@ There are 6 major IT jobs that are in high demands in the current (2023) market.
 - Configure Networking
 - Configure Security through Firewalls
 - Storage backups
-- Databasd Admin
+- Database Admin
 - Network Admin
 - Security Admin
 
 
-## Cloud Engineer
+## Cloud Engineer (Create Reliable and Secure Cloud infrastructre)
 - To be a cloud engineer, you need to know one cloud service providers, AWS, Azure or Google.
 - Need to know services equivalence to on-premises
 - Should have experience on migrating on-premises applications and services to cloud
+### ```Important Cloud Tools to focus on: Linux,Networking,Bash,Python,AWS,Terraform```
 
 
-## DevOps Engineer
+## DevOps Engineer (Releasing software applications faster)
 ###### Coding --> CI/CD --> Servers
 ```Software Development LifeCycle (Plan->Code->Build->Test->Release->Deploy->Operate->Monitor)```
 - Agile, Scrum, SAFe methodology
-- Cloud services (AWS, Azure)
+- Cloud services:
+    - (AWS, Azure)
 ##### Dev part: (Plan->Code->Build->Test)
 - Basics of Software Development (Python, Ruby, JAVA)
 - Version control (Git, Gitlabs, Github)
