@@ -80,8 +80,7 @@ There are 6 major IT jobs that are in high demands in the current (2023) market.
 - What problems does this tool is solving?
 - Where the tools' solutions fits in the bigger picture of the end-to-end software dev lifecycle?
 - How the tool solves the problems?
-- 
 
-[DevOps Skillsets](https://github.com/sakard23/Major_IT_Jobs/blob/main/DevOps%20Skillset.JPG?raw=true)
-
+- [DevOps Skillsets](https://github.com/sakard23/Major_IT_Jobs/blob/main/DevOps%20Skillset.JPG?raw=true)
+- [DevOps Concepts and Tools](https://github.com/sakard23/Major_IT_Jobs/blob/main/devOps%20concepts%20and%20tools.JPG)
 
