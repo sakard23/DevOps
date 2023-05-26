@@ -1,3 +1,5 @@
+```Your mind is like a RAM, not like a storage. So keep a habit of keeping journal of everything that you did.```
+
 # IT Major roles (2023 verion)
 There are 6 major IT jobs that are in high demands in the current (2023) market. These are:
 - Software Engineer (Entry level role)
@@ -32,16 +34,38 @@ There are 6 major IT jobs that are in high demands in the current (2023) market.
 ```Software Development LifeCycle (Plan->Code->Build->Test->Release->Deploy->Operate->Monitor)```
 - Agile, Scrum, SAFe methodology
 - Cloud services:
-    - (AWS, Azure)
+    - AWS 
+    - Azure
 ##### Dev part: (Plan->Code->Build->Test)
 - Basics of Software Development (Python, Ruby, JAVA)
 - Version control (Git, Gitlabs, Github)
 ##### Ops part: (Release->Deploy->Operate->Monitor)
-- OS and Linux Basics (Linux File System, Server Mgmt, SSH into server)
+- OS and Linux Basics:
+    - Linux File System
+    - Linux File Permissions
+    - Server Mgmt
+    - SSH Key Mgmt
+    - SSH into server
 - Virtualization (VMs)
-- Security->Firewall, Proxy servers
-- Networking->Load Balancers, HTTP/HTTPS, IP address, DNS
-- Containers (Docker)
+- Security:
+    - Firewall configuration to secure access
+    - Proxy servers
+- Networking:
+    - Load Balancers
+    - HTTP/HTTPS
+    - IP address
+    - Ports
+    - DNS
+- Containers: A container is a standard unit of software that pkgs up code and all its dependencies so the app runs quickly and reliably on any computing environment.
+    - Docker:
+        - Run Containers
+        - Inspect active containers
+        - Docker Networking
+        - Persist data with Docker volumns
+        - Dockerize apps using Dockerfiles
+        - Run multiple containers using Docker-Compose
+        - Work with Docker Repository
+```VMs virtualize the whole OS. Containers virtualize only the application level of the OS.```
 - Container Orchestration (K8s)
 ##### CI/CD part:
 - CI/CD tool (Jenkins)
@@ -58,6 +82,6 @@ There are 6 major IT jobs that are in high demands in the current (2023) market.
 - How the tool solves the problems?
 - 
 
-![alt text] (https://github.com/sakard23/Major_IT_Jobs/blob/main/DevOps%20Skillset.JPG?raw=true)
+[DevOps Skillsets](https://github.com/sakard23/Major_IT_Jobs/blob/main/DevOps%20Skillset.JPG?raw=true)
 
 
